@@ -17,6 +17,9 @@ Welcome to my portfolio of machine learning and data mining projects. This repos
 ### 📊 Statistical Data Mining
 * **Association Rule Mining:** Implementation of the **A-priori Algorithm** to discover frequent itemsets and strong association rules, optimized for interpretability and minimal support thresholds.
 
+### 🧬 Neuromorphic Engineering
+* **Spiking Neural Networks (SNNs):** Implementation of Leaky Integrate-and-Fire (LIF) models and Hodgkin-Huxley dynamics using SNNTorch. Features comprehensive analysis of Input-Frequency (I-F) curves, exploring the relationship between injected current and neuronal firing rates through various membrane capacitance and resistance parameters.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -42,5 +45,6 @@ Welcome to my portfolio of machine learning and data mining projects. This repos
 | `DeepLearning-Basics-simple-pytorch-implementations` | Custom Tensor functions (expand_as, expand, etc...) |
 | `Data-Mining-Project-Part1` | Research on imbalanced data and CART models for Stroke prediction. |
 | `Data-Mining-Project-Part2` | Neural Network, Clustering and A-priori Algorithms for Stroke Prediction |
+| `Neuromorphic_Engineering_LIF_HH_SNNTorch_HW1.ipynb` | Leaky Integrate-and-Fire and Hodgkin-Huxley models using SNNTorch with I-F curve analysis. |
 
 ---
