@@ -8,6 +8,7 @@ Welcome to my portfolio of machine learning and data mining projects. This repos
 
 ### 🧠 Deep Learning Internals
 * **Custom Autograd Engine & Samplers:** A "from-scratch" implementation of a scalar-valued autograd engine and custom PyTorch samplers. This project explores the mechanics of backpropagation, computational graphs, and data loading optimization.
+* **Regularization Techniques & Custom Dropout:** Advanced implementation of regularization methods including L1/L2 regularization and custom dropout layers in PyTorch neural networks.
 * **Neural Network Foundations:** Implementation of multi-class Perceptron Learning Algorithms (PLA) and Softmax Regression. Features a comparative analysis of different Gradient Descent variations (**Batch, SGD, and Mini-batch**) using the Fashion-MNIST dataset.
 
 ### 🏥 Predictive Health Analytics
@@ -38,13 +39,14 @@ Welcome to my portfolio of machine learning and data mining projects. This repos
 
 | File | Description |
 | :--- | :--- |
+| `Deep_Learning_Custom_DataLoader_Dataset_Training_Pytorch.ipynb` | Custom PyTorch pipelines and Diabetes risk classification. |
 | `DeepLearning_Custom_Audograd_and_Sampler_Pytorch.ipynb` | Manual backprop implementation and PyTorch Sampler logic. |
-| `softmax-regression-different-gradiant-descent.ipynb` | Optimization research on Fashion-MNIST using Softmax. |
-| `multi-class-PLA-for-fashion-mnist.ipynb` | Linear classification benchmarks and PLA implementation. |
-| `Deep_Learning_Custom_DataLoader_Training.ipynb` | Custom PyTorch pipelines and Diabetes risk classification. |
-| `DeepLearning-Basics-simple-pytorch-implementations` | Custom Tensor functions (expand_as, expand, etc...) |
-| `Data-Mining-Project-Part1` | Research on imbalanced data and CART models for Stroke prediction. |
-| `Data-Mining-Project-Part2` | Neural Network, Clustering and A-priori Algorithms for Stroke Prediction |
+| `DeepLearning_Regulazation_And_Custom_Dropout_Layer.ipynb` | Implementation of regularization techniques and custom dropout layers. |
+| `DeepLearning-Basics-simple-pytorch-implementations.ipynb` | Custom Tensor functions (expand_as, expand, etc...). |
+| `multi-class-PLA-for-fashion-mnist-dataset.ipynb` | Linear classification benchmarks and PLA implementation. |
 | `Neuromorphic_Engineering_LIF_HH_SNNTorch_HW1.ipynb` | Leaky Integrate-and-Fire and Hodgkin-Huxley models using SNNTorch with I-F curve analysis. |
+| `softmax-regression-different-gradiant-descent-forfashion-mnist-dataset.ipynb` | Optimization research on Fashion-MNIST using Softmax. |
+| `Data-Mining-Project-Part-1.pdf` | Research on imbalanced data and CART models for Stroke prediction. |
+| `Data-Mining-Project-Part2.pdf` | Neural Network, Clustering and A-priori Algorithms for Stroke Prediction |
 
 ---
